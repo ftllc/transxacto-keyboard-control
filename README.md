@@ -60,14 +60,14 @@ Minimal system resource usage. Runs silently in the background.
 ### One-Line Installation
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/transxacto-keyboard-control/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/ftllc/transxacto-keyboard-control/main/install.sh | bash
 ```
 
 ### Manual Installation
 
 ```bash
 # Download the latest release
-curl -L https://github.com/YOUR_USERNAME/transxacto-keyboard-control/releases/latest/download/transxacto-keyboard-control.tar.gz -o transxacto-keyboard-control.tar.gz
+curl -L https://github.com/ftllc/transxacto-keyboard-control/releases/latest/download/transxacto-keyboard-control.tar.gz -o transxacto-keyboard-control.tar.gz
 
 # Extract
 tar -xzf transxacto-keyboard-control.tar.gz
